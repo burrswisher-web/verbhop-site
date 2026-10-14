@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://verbhop.com/sitemap.xml
